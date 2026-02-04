@@ -1,4 +1,4 @@
-# GNDEC Times 2024 (Vol. 12)
+# GNDEC Times 2025 (Vol. 13) .... Coming Soon (In making)
 
 | [Home](README.md) | [Contents](Content/CoverPage/Contents.md) | [Editorial Board](Content/EditorialBoard/EditorialBoard.md) | [GNDEC Home](https://gndec.ac.in/) | [Contact Us](Content/CoverPage/Contact.md) |  
 

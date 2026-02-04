@@ -6,12 +6,12 @@ To facilitate compilation, all departmental editors are requested to follow the 
 
 ### 1. Create a GitHub Account
 Create an account at:  
-https://github.com/
+[https://github.com/](https://github.com/)
 
 ### 2. Fork the Newsletter Repository
 After logging into GitHub, visit the Newsletter repository:
 
-https://github.com/gndec-2021/Newsletter_2025
+[https://github.com/gndec-2021/Newsletter_2025](https://github.com/gndec-2021/Newsletter_2025)
 
 Click the **Fork** button at the top-right corner.  
 This will create a copy of the repository in your GitHub account.

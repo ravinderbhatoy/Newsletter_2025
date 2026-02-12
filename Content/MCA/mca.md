@@ -217,6 +217,24 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 | 10.   | Mock Interview            | Interview  | 21-09-2023 |
 | 11.   | Quiz                      | Technical  | 06-10-2023 |
 | 12.   | Group Discussion          | Technical  | 16-10-2023 |
+| 13.   | Teej Celebration                  | Cultural    | 13-08-2024 |
+| 14.   | Recruitment July-Dec 2024         | Recruitment | 28-08-2024 |
+| 15.   | Expert Talk by Prof. Rishi Kapoor | Technical   | 27-08-2024 |
+| 16.   | Cloud Computing                   | Technical   | 23-10-2024 |
+| 17.   | Rangoli and Crafting Competition  | Cultural    | 28-10-2024 |
+| 18.   | Canva Designing                   | Technical   | 08-11-2024 |
+| 19.   | Web Wizard                        | Technical   | 11-11-2024 |
+| 20.   | Github                            | Technical   | 21-01-2025 |
+| 21.   | Technical Quiz                    | Technical   | 06-02-2025 |
+| 22.   | Coding Contest                    | Technical   | 24-02-2025 |
+| 23.   | Artificial Intelligence           | Technical   | 26-03-2025 |
+| 24.   | Recruitments                      | Recruitment | 22-08-2025 |
+| 25.   | AI in Robotics and Automation     | Technical   | 25-09-2025 |
+| 26.   | TechQuest                         | Technical   | 10-10-2025 |
+| 27.   | WebXplore                         | Technical   | 17-10-2025 |
+| 28.   | Rangoli Competition               | Cultural    | 17-10-2025 |
+| 29.   | Coding Contest                    | Technical   | 11-11-2025 |
+
 
 
 

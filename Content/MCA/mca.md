@@ -84,8 +84,19 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 |8|Prof.Kamalpreet Kaur|Workshop on Communication Skills|1 Day|07 August,2023|Dept. Of Applied Sciences& IQAC, GNDEC|
 |9|Prof.Harmandeep Kaur|Role of Techical Institutions in Rural Infrastructure Development| 1 Week|24-28 April,2023| Rural Development Department NITTTR, Chandigarh|
 |10|Prof.Amanpreet Kaur|Workshop on Communication Skills|1 Day|07 August,2023|Dept. Of Applied Sciences& IQAC, GNDEC|
-|10|Er.Vandna |Innovative Teaching and Learning Pedagogy|5 Days|27-31 May,2023|Research Founadtion of India|
-|11|Er.Vandna|Artificial Intelligence and Punjabi Language:Recent Trends and Challenges|3 Days|6-8 June,2024|GNDEC|
+|11|Er.Vandna |Innovative Teaching and Learning Pedagogy|5 Days|27-31 May,2023|Research Foundation of India|
+|12|Er.Vandna|Artificial Intelligence and Punjabi Language:Recent Trends and Challenges|3 Days|6-8 June,2024|GNDEC|
+|13|Er.Kamalpreet Kaur|Intelligent Computing Techniques and its Engineering Applications|5 Days|6-8 January,2025|College of Engineering and Management, Kolaghat
+|14|Er.Kamalpreet Kaur|CryptoGenX: Empowering future AI with Cyber Risk|5 Days|20-24 January,2025|Brainware University|
+|15|Er.Kamalpreet Kaur|Gen AI Integrated International Webinar on cloud and DevOps|One day|11 January,2025|IPSR Solutions Limited and Valin Technologies|
+|16| Prof.Preeti Aggarwal | Statistical Analysis with Excel | 6 Days | 7-12 February, 2025 | Reasearch Foundation of India
+|17|  Prof.Preeti Aggarwal | CryptoGenX: Empowering Future AI with Cyber Risk | 5 Days | 20-24 January,2025 | Department of Computational Sciences at Brainware University	
+|18| Prof.Preeti Aggarwal | Hands-on with Github and Docker on Linux | 3 Days | 15-17 July,2024 | Department of Computer Science and Engineering, GNDEC, Ludhiana
+|19| Prof.Preeti Aggarwal | Machine Learning & NLP using Python Programming | 5 Days | 24-28 June,2024 | Infosys Springboard
+|20| Prof.Preeti Aggarwal | Python Programming |5 Days| 24-28 June,2024 | Infosys Springboard
+|21| Prof.Gagandeep Kaur|Modern Web Development and AI Integration | 5 Days | 8-12 December,2025 | Next Gen Employability Program |
+|22| Prof.Gagandeep Kaur|AI Powered Optimization Strategies | 6 Days | 21-26 December,2025 | AICTE |
+|23| Prof.Gagandeep Kaur|A Systematic Way of Research Paper Writing | 5 Days | 8-12 December,2025 | Research Foundation of India |
 
 
 ### Faculty Conference Publications
@@ -209,9 +220,7 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 
 
 
-
 ### Placements  
-
 	
 
 -	Himanshi Rani student of MCA placed in Cognizant. (2023)

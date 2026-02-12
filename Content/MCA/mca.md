@@ -31,8 +31,7 @@ The success of the M.C.A. is attributed to its motivating and inspiring faculty 
 -	Prof. Jasbir Singh Saini is Fellow of Institution of Engineers (I), Kolkata- F-1215525.
 -	Prof. Jasbir Singh Saini is Life Member of Computer Society of India, Navi Mumbai.
 -	Prof. Jasbir Singh Saini is Charted Engineer of Institution of Engineers (I), Kolkata- F-1215525.
--	As Admissions Coordinator, JS Saini demonstrated exceptional performance by successfully achieving 100% enrollment targets for both undergraduate and postgraduate programs 
-within the department.
+-	As Admissions Coordinator, JS Saini demonstrated exceptional performance by successfully achieving 100% enrollment targets for both undergraduate and postgraduate programs within the department.
   
 
 ## Publications
@@ -42,7 +41,8 @@ within the department.
 
 - Anand, D., kaur, A. & Singh, P. (2024),” Enhancing Healthcare Monitoring with efficient Computation Offloading in Fog Computing”,  International Journal of Computer Networks and Applications (IJCNA), Volume 11, Issue 4, July – August (2024)  PP: 506-518 DOI: 10.22247/ijcna/2024/32 (Scopus) 
 
-
+- Harmandeep kaur, published paper in IJRAR Journal Title  “Blockchain for Internet of Things”and “Inclusion of Digital Electronics in Computer Applications,architecture,advancements and integration”.
+- Harmandeep kaur, published paper in IJCRT Journal Title  “A comprehensive review of Deep Learning’s techniques and its applications”
 
 
 ## Events Organized
@@ -74,30 +74,31 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 
 | Sr. No. | Name of Faculty   | Name of Event                                                                                     | Duration | Date(s)               | Organizing Institute                                        |
 |:------- |:----------------- |:------------------------------------------------------------------------------------------------- |:-------- |:--------------------- |:----------------------------------------------------------- |
-|1| Prof. Jasbir Singh Saini|Quantum Computing| 6 Days | 18-23 December, 2023| AICTE ATAL Yojna,GNDEC|
-|2| Prof. Jasbir Singh Saini|NBA Accrediation and Teaching-Learning in Engineering| 6 Days| 1-6 January, 2024| AICTE ATAL Yojna,GNDEC|
-|3|Prof. Dinesh Anand |NSQF Aligned Curriculum Design and Implementation   | 1 week | 18-22 September,2023 | NITTTR, Chandigarh |
-|4|Dr.Manreet Sohal|Building Advanced Data Analytics Applications With Cloud|5 Days|16-20 October,2023|	Edunet Foundation and AICTE|
-|5| Dr.Manreet Sohal|Designing Course Outcomes and Outcomes-focused Questions|1 Day|09 August,2023|	InPods Ed-tech|
-|6|Dr.Manreet Sohal|Workshop on Communication Skills|1 Day|07 August,2023|	Dept. Of Applied Sciences& IQAC, GNDEC|
-|7|Prof.Preeti Aggarwal|Machine Learning & NLP using Python|5 Days|24-28 June, 2024|Infosys Springboard|
-|8|Prof.Kamalpreet Kaur|Workshop on Communication Skills|1 Day|07 August,2023|Dept. Of Applied Sciences& IQAC, GNDEC|
-|9|Prof.Harmandeep Kaur|Role of Techical Institutions in Rural Infrastructure Development| 1 Week|24-28 April,2023| Rural Development Department NITTTR, Chandigarh|
-|10|Prof.Amanpreet Kaur|Workshop on Communication Skills|1 Day|07 August,2023|Dept. Of Applied Sciences& IQAC, GNDEC|
-|11|Er.Vandna |Innovative Teaching and Learning Pedagogy|5 Days|27-31 May,2023|Research Foundation of India|
-|12|Er.Vandna|Artificial Intelligence and Punjabi Language:Recent Trends and Challenges|3 Days|6-8 June,2024|GNDEC|
-|13|Er.Kamalpreet Kaur|Intelligent Computing Techniques and its Engineering Applications|5 Days|6-8 January,2025|College of Engineering and Management, Kolaghat
-|14|Er.Kamalpreet Kaur|CryptoGenX: Empowering future AI with Cyber Risk|5 Days|20-24 January,2025|Brainware University|
-|15|Er.Kamalpreet Kaur|Gen AI Integrated International Webinar on cloud and DevOps|One day|11 January,2025|IPSR Solutions Limited and Valin Technologies|
-|16| Prof.Preeti Aggarwal | Statistical Analysis with Excel | 6 Days | 7-12 February, 2025 | Reasearch Foundation of India
-|17|  Prof.Preeti Aggarwal | CryptoGenX: Empowering Future AI with Cyber Risk | 5 Days | 20-24 January,2025 | Department of Computational Sciences at Brainware University	
-|18| Prof.Preeti Aggarwal | Hands-on with Github and Docker on Linux | 3 Days | 15-17 July,2024 | Department of Computer Science and Engineering, GNDEC, Ludhiana
-|19| Prof.Preeti Aggarwal | Machine Learning & NLP using Python Programming | 5 Days | 24-28 June,2024 | Infosys Springboard
-|20| Prof.Preeti Aggarwal | Python Programming |5 Days| 24-28 June,2024 | Infosys Springboard
-|21| Prof.Gagandeep Kaur|Modern Web Development and AI Integration | 5 Days | 8-12 December,2025 | Next Gen Employability Program |
-|22| Prof.Gagandeep Kaur|AI Powered Optimization Strategies | 6 Days | 21-26 December,2025 | AICTE |
-|23| Prof.Gagandeep Kaur|A Systematic Way of Research Paper Writing | 5 Days | 8-12 December,2025 | Research Foundation of India |
-
+| 1 |Er.Kamalpreet Kaur | Intelligent Computing Techniques and its Engineering Applications | 5 Days | 6-8 January, 2025 | College of Engineering and Management, Kolaghat |
+| 2 |  Er.Kamalpreet Kaur | Gen AI Integrated International Webinar on Cloud and DevOps | 1 Day | 11 January, 2025 | IPSR Solutions Limited and Valin Technologies |
+| 3 |  Er.Kamalpreet Kaur | CryptoGenX: Empowering Future AI with Cyber Risk | 5 Days | 20-24 January, 2025 | Brainware University |
+| 4 |  Prof.Preeti Aggarwal | CryptoGenX: Empowering Future AI with Cyber Risk | 5 Days | 20-24 January, 2025 | Department of Computational Sciences, Brainware University |
+| 5 |  Prof.Preeti Aggarwal | Statistical Analysis with Excel | 6 Days | 7-12 February, 2025 | Research Foundation of India |
+| 6 |  Prof.Gagandeep Kaur | Modern Web Development and AI Integration | 5 Days | 8-12 December, 2025 | Next Gen Employability Program |
+| 7 |  Prof.Gagandeep Kaur | AI Powered Optimization Strategies | 6 Days | 21-26 December, 2025 | AICTE |
+| 8 |  Prof.Gagandeep Kaur | A Systematic Way of Research Paper Writing | 5 Days | 8-12 December, 2025 | Research Foundation of India |
+| 9 |  Prof.Jasbir Singh Saini | NBA Accreditation and Teaching-Learning in Engineering | 6 Days | 1-6 January, 2024 | AICTE ATAL Yojna, GNDEC |
+| 10 | Er. Vandna | Artificial Intelligence and Punjabi Language: Recent Trends and Challenges | 3 Days | 6-8 June, 2024 | GNDEC |
+| 11 | Prof.Preeti Aggarwal | Machine Learning & NLP using Python | 5 Days | 24-28 June, 2024 | Infosys Springboard |
+| 12 | Prof.Preeti Aggarwal | Machine Learning & NLP using Python Programming | 5 Days | 24-28 June, 2024 | Infosys Springboard |
+| 13 | Prof.Preeti Aggarwal | Python Programming | 5 Days | 24-28 June, 2024 | Infosys Springboard |
+| 14 | Prof.Preeti Aggarwal | Hands-on with Github and Docker on Linux | 3 Days | 15-17 July, 2024 | Department of CSE, GNDEC, Ludhiana |
+| 15 | Prof.Jasbir Singh Saini | Quantum Computing | 6 Days | 18-23 December, 2023 | AICTE ATAL Yojna, GNDEC |
+| 16 | Ms.Manpreet Bhatty | Research Methodology | 1 Day | 04 December, 2023 | LGC Chaunkimaan |
+| 17 | Dr.Manreet Sohal | Building Advanced Data Analytics Applications with Cloud | 5 Days | 16-20 October, 2023 | Edunet Foundation and AICTE |
+| 18 | Prof.Dinesh Anand | NSQF Aligned Curriculum Design and Implementation | 1 Week | 18-22 September, 2023 | NITTTR, Chandigarh |
+| 19 | Dr.Manreet Sohal | Designing Course Outcomes and Outcomes-focused Questions | 1 Day | 09 August, 2023 | InPods Ed-tech |
+| 20 | Dr.Manreet Sohal | Workshop on Communication Skills | 1 Day | 07 August, 2023 | Dept. of Applied Sciences & IQAC, GNDEC |
+| 21 | Prof.Kamalpreet Kaur | Workshop on Communication Skills | 1 Day | 07 August, 2023 | Dept. of Applied Sciences & IQAC, GNDEC |
+| 22 | Prof.Amanpreet Kaur | Workshop on Communication Skills | 1 Day | 07 August, 2023 | Dept. of Applied Sciences & IQAC, GNDEC |
+| 23 | Er.Vandna | Innovative Teaching and Learning Pedagogy | 5 Days | 27-31 May, 2023 | Research Foundation of India |
+| 24 | Er.Harmandeep Kaur | Role of Technical Institutions in Rural Infrastructure Development | 1 Week | 24-28 April, 2023 | Rural Development Department, NITTTR, Chandigarh |
+| 25| Er.Harmandeep Kaur | Survey on Optical Technologies Used for Communication | 2 Days | 11-12 November, 2022 | Dehradun, Bidholi Campus |
 
 ### Faculty Conference Publications
 
@@ -166,7 +167,6 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
  
 
  
-
 ### **Youth Festival**
 
 ***Positions held by students:***
@@ -189,7 +189,6 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 |12.|Jagjot Singh|BCA 3rd| Classical Percussion  (Inter Zonal)|1st Runner up|
 |13.|Minaz|	BCA 2nd|	One Act Play (Inter Zonal)|	1st|
 |14.|Minaz	|BCA 2nd	|Skit (Zonal) & Mimicry (Zonal)|	2nd|
-
 
 
 
@@ -239,8 +238,6 @@ The seminar ended with a vote of thanks to the expert and best wishes to all the
 
 
 ### Placements  
-	
-
 -	Himanshi Rani student of MCA placed in Cognizant. (2023)
 -	Aprajita Kumari student of MCA placed in Education Pvt Ltd. (2023) 
 
